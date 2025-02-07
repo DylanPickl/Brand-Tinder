@@ -1,0 +1,1 @@
+an app for brands and atheletes to connect tinder style
